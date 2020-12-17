@@ -7,7 +7,7 @@ committed to constantly improving myself by learning new technologies and framew
 - 🔭 I’m currently working on a web shop for books. 
 - 🌱 I’m currently learning design patterns.
 - :goal_net: 2021 Goals: Complete studies, Upgrade my knowledge and Find a job
-- ⚡ Fun fact: I love pets, cars and American football :dog: :blue_car: :football:
+- ⚡ Fun fact: I love dogs, cars and American football :dog: :blue_car: :football:
 
 ---
 
@@ -35,7 +35,7 @@ committed to constantly improving myself by learning new technologies and framew
 ---
 
 ### Contact me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/brankovitorovic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/soon.../)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://wh719028.ispot.cc/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](brankovitorovic13@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/brankovitorovic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/soon.../)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://wh719028.ispot.cc/)
 
 ---
 
