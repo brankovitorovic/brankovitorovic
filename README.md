@@ -1,13 +1,13 @@
 ## Hi there 👋, my name is Branko Vitorovic. 
-### I am a student, developer and a dog owner.
-I am at fourth year of studies at Faculty of Computing, Union University.  I am proficient
-in Web Technologies such as Java, Spring, mySQL, HTML, JavaScript and CSS. My ambition is to reach the very top of my profession, furthermore I am
-committed to constantly improving myself by learning new technologies and frameworks.
+🔭 Current Role: I'm now employed as a Backend Engineer at Decenter, where I'm diving deep into the world of Web3. Passionate about decentralization, I am actively involved in projects that promote and support this revolutionary concept.
 
-- 🔭 I’m currently working on a web shop for books. 
-- 🌱 I’m currently learning design patterns.
-- :goal_net: 2021 Goals: Complete studies, Upgrade my knowledge and Find a job
-- ⚡ Fun fact: I love dogs, cars and American football :dog: :blue_car: :football:
+🌱 Continuous Learning: Ambitious and eager to learn, I am always on the lookout for new technologies and frameworks. My recent focus has been on blockchain technology, which I find both challenging and rewarding.
+
+🎤 Knowledge Sharing: I have delivered several lectures on blockchain, sharing my insights and experiences with others in the tech community.
+
+🎯 2024 Goals:     Excel as a Backend Engineer at Decenter, deepening my expertise in blockchain and Web3, while contributing to key decentralization projects and sharing my knowledge through speaking engagements.
+
+⚡ Personal Interests: I love dogs, cars, and American football. :dog: :blue_car: :football:
 
 ---
 
